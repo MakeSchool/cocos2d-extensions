@@ -1,0 +1,6 @@
+{
+	"summary": "A simpler way of animating a Sprite",
+	"Author": "Benjamin Encz (MakeGamesWithUs Inc.)",
+	"Repository" : "https://github.com/MakeGamesWithUs/CCAnimatedSprite",
+	"Files" : ["https://raw.github.com/MakeGamesWithUs/CCAnimatedSprite/v1.0/SpriteAnimation/Classes/CCAnimatedSprite.m", "https://raw.github.com/MakeGamesWithUs/CCAnimatedSprite/v1.0/SpriteAnimation/Classes/CCAnimatedSprite.h"],
+}

@@ -1,0 +1,6 @@
+{
+	"summary": "A easy way to make two sprites follow each other",
+	"Author": "Benjamin Encz (MakeGamesWithUs Inc.)",
+	"Repository" : "https://github.com/MakeGamesWithUs/CCActionMoveToNode",
+	"Files" : ["https://raw.github.com/MakeGamesWithUs/CCActionMoveToNode/v1.0/MoveToNode/Classes/CCActionMoveToNode.m", "https://raw.github.com/MakeGamesWithUs/CCActionMoveToNode/v1.0/MoveToNode/Classes/CCActionMoveToNode.h"],
+}
