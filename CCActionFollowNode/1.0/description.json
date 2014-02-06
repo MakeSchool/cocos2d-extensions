@@ -1,9 +1,9 @@
 {
-    "Summary": "A simpler way of animating a Sprite",
+    "Summary": "A easy way to make two sprites follow each other",
     "Author": "Benjamin Encz (MakeGamesWithUs Inc.)",
-    "Repository": "https://github.com/MakeGamesWithUs/CCAnimatedSprite",
+    "Repository": "https://github.com/MakeGamesWithUs/CCActionMoveToNode",
     "Files": [
-        "https://raw.github.com/MakeGamesWithUs/CCAnimatedSprite/v1.0/SpriteAnimation/Classes/CCAnimatedSprite.m",
-        "https://raw.github.com/MakeGamesWithUs/CCAnimatedSprite/v1.0/SpriteAnimation/Classes/CCAnimatedSprite.h"
+        "https://raw.github.com/MakeGamesWithUs/CCActionMoveToNode/v1.0/MoveToNode/Classes/CCActionMoveToNode.m",
+        "https://raw.github.com/MakeGamesWithUs/CCActionMoveToNode/v1.0/MoveToNode/Classes/CCActionMoveToNode.h"
     ]
 }
